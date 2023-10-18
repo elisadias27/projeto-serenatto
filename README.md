@@ -1,2 +1,2 @@
 # projeto-serenatto
-Projeto de Website sem fins comerciais
+Projeto de Website de um Bistro sem fins comerciais.
